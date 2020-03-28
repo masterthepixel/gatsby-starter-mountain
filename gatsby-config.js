@@ -6,14 +6,14 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'MDX WP',
-    description: 'It is a WP with MDX blog ',
-    keywords: ['GatsbyJs', 'React', 'theme-ui'],
+    title: 'qwd Furniture',
+    description: 'Quality Wholesale Discount Furniture ',
+    keywords: ['GatsbyJs', 'React', 'theme-ui','furniture','DMV','Maryland','Virginia','DC'],
     siteURL: 'https://gatsby-starter-mountain.netlify.com', // No trailing slash allowed!
     siteImage: '/preview.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@CArtezan',
+    twitterUsername: '@qwdfurniture',
     author: {
-      name: 'Cesar Artezan'
+      name: 'Kobla Fiagbedzi'
     }
   },
   plugins: [
